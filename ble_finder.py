@@ -23,8 +23,8 @@ import tailer
  
 devices = [
 ['D5:3D:F4:CO:FF:EE', 'Ronalds tile tag', ''],
-['CF:19:F8:0X:DE:AD', 'Gerrards tile tag', ''],
-['FF:FF:C0:0X:BE:EF', 'Jasons iTAG', ''], 
+['CF:19:F8:0F:DE:AD', 'Gerrards tile tag', ''],
+['FF:FF:C0:AF:BE:EF', 'Jasons iTAG', ''], 
 ]
 
 # threshold for reporting in seconds
