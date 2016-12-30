@@ -1,0 +1,9 @@
+log_level: info
+bt_device: hci0
+info_scan_rate: 60
+status_sync_rate: 86400
+btmon_log: false
+btmon_rawlog: false
+file: false
+rssi_log: true
+aggressive_rssi: false
